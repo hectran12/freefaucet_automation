@@ -1,0 +1,10 @@
+{
+    "wallet": {
+        "btc" : "1Dotw12s2ed34wpXyh5gFwE29edbgemPpd",
+        "doge" : "DJKntdmVqxZwJjBhRsZtsfaHmAAFbHAaEd",
+        "ltc": "MR4RsuJnNXWgfp9V6898VxZCzBLrVrz2MT",
+        "trx": "TPw8AibYuVVXQUM6UcsvmyUaL6S4wAj6kL",
+        "sql" : "D1MPLyFWEr4o4jzksF7gAu56KAx5gdtMnkEQPBNReY1o",
+        "dash" : "XrDoxcRinJkcrHhASdUkTJ8WuRrqMtBsyY"
+    }
+}  
